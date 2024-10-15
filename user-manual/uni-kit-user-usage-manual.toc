@@ -1,0 +1,9 @@
+\babel@toc {ukrainian}{}\relax 
+\contentsline {section}{\numberline {1}Загальна інформація}{1}{section.1}%
+\contentsline {section}{\numberline {2}Технічні вимоги}{1}{section.2}%
+\contentsline {section}{\numberline {3}Встановлення системи AtoM}{1}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Linux}{1}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Windows}{1}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Конфігурація}{1}{section.4}%
+\contentsline {section}{\numberline {5}Часті запитання та відповіді}{1}{section.5}%
+\contentsline {section}{\numberline {6}Постскриптум}{1}{section.6}%
