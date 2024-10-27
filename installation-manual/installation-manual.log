@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.12)  13 OCT 2024 15:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.12)  27 OCT 2024 12:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2466,7 +2466,7 @@ Package hyperref Info: Link coloring OFF on input line 33.
 
 LaTeX Warning: No \author given.
 
-<Images/logo_grn.png, id=43, 221.82875pt x 228.855pt>
+<Images/logo_grn.png, id=67, 221.82875pt x 228.855pt>
 File: Images/logo_grn.png Graphic file (type png)
 <use Images/logo_grn.png>
 Package pdftex.def Info: Images/logo_grn.png  used on input line 42.
@@ -2478,46 +2478,51 @@ _grn.png>] (installation-manual.toc)
 \tf@toc=\write5
 \openout5 = `installation-manual.toc'.
 
- [1] (installation-manual.lof)
-\tf@lof=\write6
-\openout6 = `installation-manual.lof'.
+ [1]
+<Images/what-is-atom.png, id=96, 507.8172pt x 917.3472pt>
+File: Images/what-is-atom.png Graphic file (type png)
+<use Images/what-is-atom.png>
+Package pdftex.def Info: Images/what-is-atom.png  used on input line 68.
+(pdftex.def)             Requested size: 507.81595pt x 917.34496pt.
 
- [2]
-(installation-manual.lot)
-\tf@lot=\write7
-\openout7 = `installation-manual.lot'.
-
- [3]
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.81 \end{document}
-                    [1] (installation-manual.aux)
+l.74 	\newpage
+               [1 <./Images/what-is-atom.png>]
+Overfull \hbox (18.90823pt too wide) in paragraph at lines 84--85
+[]\T2A/cmr/bx/n/12 Symphony-Framework\T2A/cmr/m/n/12 , який ор-га-нi-зо-ву№ скл
+а-до-вi ча-сти-ни за до-по-мо-гою об'№ктноЁ
+ []
+
+[2] [3] [4] (installation-manual.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `installation-manual.out' has not changed.
-(rerunfilecheck)             Checksum: 9E0D9A1BE251E3AFCFF44E043FF95827;1308.
+(rerunfilecheck)             Checksum: B66DB056B99EC3A0E968F0D8CA90CFCC;3058.
  ) 
 Here is how much of TeX's memory you used:
- 38880 strings out of 475248
- 861776 string characters out of 5758284
- 1921785 words of memory out of 5000000
- 59708 multiletter control sequences out of 15000+600000
- 574749 words of font info for 77 fonts, out of 8000000 for 9000
+ 38904 strings out of 475248
+ 862222 string characters out of 5758284
+ 1928785 words of memory out of 5000000
+ 59730 multiletter control sequences out of 15000+600000
+ 575086 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,6n,117p,736b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx120
-0.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm
-1000.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
-abx1440.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\labx1000.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dp
-i600\labx2488.pk>
-Output written on installation-manual.pdf (5 pages, 89790 bytes).
+ 99i,6n,117p,736b,612s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
+200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+rm1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600
+\labx1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
+600\larm1000.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/
+dpi600\labx1440.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
+2a/dpi600\labx1000.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
+h-t2a/dpi600\labx2488.pk>
+Output written on installation-manual.pdf (6 pages, 598790 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 102 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 522 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 
