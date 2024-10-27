@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.12)  27 OCT 2024 12:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.12)  27 OCT 2024 16:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2337,6 +2337,12 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks56
 \@floatcapt=\box71
 )
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
@@ -2356,34 +2362,34 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )<<t2a.cmap>>)
 \openout1 = `installation-manual.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 33.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 3
-3.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 45.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 4
+5.
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
 
 (C:\Users\User\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
@@ -2444,7 +2450,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \th on input line 33.
+LaTeX Info: Redefining \th on input line 45.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
@@ -2455,9 +2461,9 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 33.
+ on input line 45.
 
-Package hyperref Info: Link coloring OFF on input line 33.
+Package hyperref Info: Link coloring OFF on input line 45.
 (installation-manual.out) (installation-manual.out)
 \@outlinefile=\write4
 \openout4 = `installation-manual.out'.
@@ -2466,10 +2472,10 @@ Package hyperref Info: Link coloring OFF on input line 33.
 
 LaTeX Warning: No \author given.
 
-<Images/logo_grn.png, id=67, 221.82875pt x 228.855pt>
+<Images/logo_grn.png, id=83, 221.82875pt x 228.855pt>
 File: Images/logo_grn.png Graphic file (type png)
 <use Images/logo_grn.png>
-Package pdftex.def Info: Images/logo_grn.png  used on input line 42.
+Package pdftex.def Info: Images/logo_grn.png  used on input line 54.
 (pdftex.def)             Requested size: 221.82819pt x 228.85443pt.
 [1
 
@@ -2479,50 +2485,78 @@ _grn.png>] (installation-manual.toc)
 \openout5 = `installation-manual.toc'.
 
  [1]
-<Images/what-is-atom.png, id=96, 507.8172pt x 917.3472pt>
+<Images/what-is-atom.png, id=116, 507.8172pt x 917.3472pt>
 File: Images/what-is-atom.png Graphic file (type png)
 <use Images/what-is-atom.png>
-Package pdftex.def Info: Images/what-is-atom.png  used on input line 68.
+Package pdftex.def Info: Images/what-is-atom.png  used on input line 80.
 (pdftex.def)             Requested size: 507.81595pt x 917.34496pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.74 	\newpage
+l.86 	\newpage
                [1 <./Images/what-is-atom.png>]
-Overfull \hbox (18.90823pt too wide) in paragraph at lines 84--85
+Overfull \hbox (18.90823pt too wide) in paragraph at lines 96--97
 []\T2A/cmr/bx/n/12 Symphony-Framework\T2A/cmr/m/n/12 , який ор-га-нi-зо-ву№ скл
 а-до-вi ча-сти-ни за до-по-мо-гою об'№ктноЁ
  []
 
-[2] [3] [4] (installation-manual.aux)
+[2] [3]
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+171.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Overfull \hbox (12.577pt too wide) in paragraph at lines 189--190
+[]\T2A/cmr/m/n/12 Вставте на-сту-пнi зна-че-н-ня в но-вий файл за адре-сою \T2A
+/cmtt/m/n/12 /etc/mysql/conf.d/mysqld.cnf
+ []
+
+[4]
+Overfull \hbox (60.95045pt too wide) in paragraph at lines 277--278
+[]\T2A/cmr/m/n/12 Всi на-сту-пнi iн-стру-кцiЁ при-пу-ска-ють, що ми вста-нов-лю
+-№-мо AtoM у ка-та-ло-зi \T2A/cmtt/m/n/12 /usr/share/nginx
+ []
+
+
+Overfull \hbox (126.39203pt too wide) in paragraph at lines 307--308
+\T2A/cmr/m/n/12 блiо-те-ка-ми PHP. Для вста-нов-ле-н-ня Composer ви-ко-най-те i
+н-стру-кцiЁ на \T2A/cmtt/m/n/12 https://getcomposer.org/download/\T2A/cmr/m/n/1
+2 .
+ []
+
+[5] [6] [7] [8] [9] (installation-manual.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `installation-manual.out' has not changed.
-(rerunfilecheck)             Checksum: B66DB056B99EC3A0E968F0D8CA90CFCC;3058.
+(rerunfilecheck)             Checksum: 2C3D488FAA8EB374C5FD0EAEE6FE5F49;3902.
  ) 
 Here is how much of TeX's memory you used:
- 38904 strings out of 475248
- 862222 string characters out of 5758284
- 1928785 words of memory out of 5000000
- 59730 multiletter control sequences out of 15000+600000
- 575086 words of font info for 78 fonts, out of 8000000 for 9000
+ 39646 strings out of 475248
+ 870864 string characters out of 5758284
+ 2149785 words of memory out of 5000000
+ 60306 multiletter control sequences out of 15000+600000
+ 577314 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,6n,117p,736b,612s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
-200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-rm1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600
-\labx1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
-600\larm1000.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/
-dpi600\labx1440.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
-2a/dpi600\labx1000.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\labx2488.pk>
-Output written on installation-manual.pdf (6 pages, 598790 bytes).
+ 99i,7n,117p,736b,1413s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt120
+0.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt
+0900.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
+arm0500.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\tcrm1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/
+dpi600\larm1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
+2a/dpi600\labx1200.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/l
+h-t2a/dpi600\larm1000.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\labx1440.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\User\AppData\Local\MiKTeX\fonts/pk/lj
+four/lh/lh-t2a/dpi600\labx2488.pk>
+Output written on installation-manual.pdf (11 pages, 694791 bytes).
 PDF statistics:
- 522 PDF objects out of 1000 (max. 8388607)
- 20 named destinations out of 1000 (max. 500000)
- 155 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 920 PDF objects out of 1000 (max. 8388607)
+ 170 named destinations out of 1000 (max. 500000)
+ 187 words of extra memory for PDF output out of 10000 (max. 10000000)
 
