@@ -15,5 +15,4 @@
 \contentsline {subsection}{\numberline {3.2}Windows}{9}{subsection.3.2}%
 \contentsline {section}{\numberline {4}Конфігурація}{9}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Маніпуляція налаштуваннями з веб-сторінки}{9}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Конфігураційні файли}{9}{subsection.4.2}%
-\contentsline {section}{\numberline {5}Постскриптум}{9}{section.5}%
+\contentsline {subsection}{\numberline {4.2}Конфігураційні файли}{10}{subsection.4.2}%
